@@ -2,7 +2,5 @@
 - 👀 I’m interested in javascript games with phaser.js
 - 🌱 I’m currently learning PHP
 - first game: mini-phaser-game
-<!---
-abs-js/abs-js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+I searching 3 or plus contribuitors to make one idea of project or search issues/improvements of the math AI in portuguese or in english(<a href="https://github.com/abs-js/Math_AI-1.0.0_en-11-8-24-">here</a> to go in the english, and/or <a href="https://github.com/abs-js/Math_AI-1.0.0_pt-11-8-24-">here</a> to portuguese)
