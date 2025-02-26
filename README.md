@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abs-js
-- 👀 I’m interested in javascript games with phaser.js
+- 👋 Hi, I’m @abs-js and I have 12 years old
+- 👀 I’m interested in javascript and chess
 - 🌱 I’m currently learning PHP
 - first game: mini-phaser-game
 <br>
